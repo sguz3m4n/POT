@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>aspnet-PayohteeWeb-0F03DDE2-EC8E-4B14-887C-B65F16AB49BA</UserSecretsId>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\PayohteeCore\PayohteeCore.csproj" />
+  </ItemGroup>
+
+</Project>

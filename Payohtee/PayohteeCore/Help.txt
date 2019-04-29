@@ -1,0 +1,11 @@
+﻿Publish Nuget Package
+https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio
+
+Add database migration PMC
+-more than one context
+Add-Migration <Name> -context <ContextName>
+-one context
+Add-Migration <Name>
+
+Update Database
+Update-Database

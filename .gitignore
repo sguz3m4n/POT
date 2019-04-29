@@ -259,3 +259,11 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Payohtee/PayohteeCore/Properties/Resources.resx
+/Payohtee/PayohteeCore/Properties/Resources.Designer.cs
+/Payohtee/PayohteeWebApi/Properties/launchSettings.json
+/Payohtee/PayohteeWebApi/appsettings.json
+/Payohtee/PayohteeWebApi/appsettings.Development.json
+/Payohtee/PayohteeWeb/Properties/launchSettings.json
+/Payohtee/PayohteeWeb/appsettings.json
+/Payohtee/PayohteeWeb/appsettings.Development.json
